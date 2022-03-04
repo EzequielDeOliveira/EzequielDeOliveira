@@ -3,7 +3,7 @@ Hey! :v:
 I'm **Ezequiel**. I'm a software engineering student who loves learning new things, getting involved with technology and improving my skills more and more. :zap:
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/EzequielDeOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielDeOliveira&count_private=true&show_icons=true&count_private=true&theme=github_dark&border_radius=20&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielDeOliveira&layout=compact&langs_count=10&theme=github_dark&hide=prolog,css,html,makefile,coffeescript,c,java&border_radius=20"/>
 </div>
