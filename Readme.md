@@ -1,6 +1,6 @@
 Hey! :v:
 
-I'm **Ezequiel**. I'm a software engineering student who loves learning new things, getting involved with technology and improving my skills more and more. :zap:
+I'm **Ezequiel**. I'm a software engineer who loves learning new things, getting involved with technology and improving my skills more and more. :zap:
 
 <div align="center">
   <a href="https://github.com/EzequielDeOliveira">
