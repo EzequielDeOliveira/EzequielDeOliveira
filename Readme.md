@@ -4,7 +4,7 @@ I'm **Ezequiel**. I'm a software engineer who loves learning new things, getting
 
 <div align="center">
   <a href="https://github.com/EzequielDeOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielDeOliveira&count_private=true&show_icons=true&count_private=true&theme=github_dark&border_radius=20&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielDeOliveira&count_private=true&show_icons=true&count_private=true&theme=github_dark&border_radius=30&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielDeOliveira&layout=compact&langs_count=10&theme=github_dark&hide=prolog,css,html,makefile,coffeescript,c,Starlark,Objective-C&border_radius=20"/>
 </div>
 <br />
